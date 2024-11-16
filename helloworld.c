@@ -2,8 +2,12 @@
 int main()
 {
 
+    printf("aminuosi\n");
 
-    printf("hellonongshen\n");
+    printf("man bo\n");
+    printf("man bo\n");
+    
+
     return 0;
     
 
