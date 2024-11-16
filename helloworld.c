@@ -3,7 +3,8 @@ int main()
 {
 
 
-    printf("hellonongshen\n");
+    printf("wo shi nai long !!! \n");
+    printf("jia na \n");
     return 0;
     
 
